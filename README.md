@@ -1,2 +1,2 @@
 # TextEditor
-*Designed and built a program to generate tables of contents including sheet indexes, names, and revision dates for administrative filing using Java
+* Implemented the backend of a smart text editor that incorporates behaviors of modern-day text interfaces including autocomplete, flagging misspelled words and spelling auto-correct using Java 
